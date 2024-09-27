@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sagwati1
 - 👀 I’m interested in: ... AWS
-- 🌱 I’m currently learning: ... AWS Cloud practitioner 
+- 🌱 I’m currently learning: ... AWS solutions architect 
 - 💞️ I’m looking to collaborate on: ... beginner Projects on AWS
 - 📫 How to reach me: ... tsagwati@gmail.com
 - 😄 Pronouns: ... I am Him
